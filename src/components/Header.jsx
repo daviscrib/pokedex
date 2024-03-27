@@ -1,8 +1,6 @@
-import Header from "./components/Header";
-
 function Header() {
     return (
-        <h1>Pokedex</h1> 
+        <h1>Es-tu prêt pour continuer ton Pokedex ?</h1> 
     );
 }
 
